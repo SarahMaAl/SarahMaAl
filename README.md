@@ -1,13 +1,18 @@
-- 👋 Hi, I’m @SarahMaAl
-- 👀 I’m interested in medical physics, dosimetry, radiation protection, and Monte Carlo simulations.
-- 🌱 I’m currently learning advanced Python and MATLAB for medical physics simulations, as well as LaTeX for scientific documentation.
-- 💞️ I’m looking to collaborate on projects related to medical imaging, radiation therapy, and computational simulations.
-- 📫 How to reach me: https://www.linkedin.com/in/sarah0martin0alonso
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring the physics behind MRI technology and its real-world applications!
+# Widget post-it de dosimétrie
 
+Ce dépôt contient un petit widget Python (Tkinter) pensé pour la planification de traitement en dosimétrie.
 
-<!---
-SarahMaAl/SarahMaAl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Fonctionnalités
+- Fenêtre compacte type **post-it**, toujours au premier plan.
+- Saisie du **nombre de niveaux de dose**.
+- Saisie de la **prescription de chaque niveau** (en Gy).
+- Calcul automatique, pour chaque niveau, des valeurs à : **10%, 50%, 95%, 98%, 100%, 105% et 107%**.
+
+## Lancer le widget
+Prérequis : Python 3 (Tkinter est généralement inclus par défaut).
+
+```bash
+python3 widgets/widget_dosimetrie.py
+```
+
+Le widget restera affiché sur l'écran pour un usage rapide pendant la planification.
