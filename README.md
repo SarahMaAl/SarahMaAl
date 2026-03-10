@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced Python and MATLAB for medical physics simulations, as well as LaTeX for scientific documentation.
 - 💞️ I’m looking to collaborate on projects related to medical imaging, radiation therapy, and computational simulations.
 - 📫 How to reach me: https://www.linkedin.com/in/sarah0martin0alonso
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring the physics behind MRI technology and its real-world applications!
 
 
